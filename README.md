@@ -19,7 +19,7 @@
 🎓 Pursuing B.Tech in Information Technology at **St. Martin's Engineering College (SMEC)**
 
 📫 How to reach me:
-- Email: [aswithakota@example.com]
+- Email: [aswithakota@gmailcom]
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - Instagram: [@your_instagram](https://instagram.com/your_instagram)
 - Portfolio: [your-portfolio.com](https://your-portfolio.com)
